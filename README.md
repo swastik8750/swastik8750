@@ -31,6 +31,10 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
 
 <br />
 
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=swastik8750.swastik8750)
+
 ### Stats:
  <table>
   <tr>
