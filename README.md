@@ -25,7 +25,7 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
 <br />
 
 ### Other Profiles:
-#### Linkedin : https://www.linkedin.com/in/swastik-jain-412a621ba/
+#### Linkedin : https://www.linkedin.com/in/swastik8750
 #### Codechef : https://www.codechef.com/users/swastik8750
 #### Codeforces : https://codeforces.com/profile/swastik8750
 
